@@ -1,3 +1,5 @@
+WHAT WE'RE GONNA LEARN
+
 REST
 Scraping
 Uploading
@@ -25,3 +27,43 @@ DEPENDENCIES
 
 bower
 npm
+
+=======
+
+SETUP MONGODB
+run mongod
+when port awaiting, run mongo in another tab
+you're now in the mongodb terminal. run showdb to check the dbs
+
+=======
+
+NPM for server side DEPENDENCIES
+
+body-parser: request.body => get data from fron-end, parse JSON
+cheerio: scrapping tool
+cookie-parser: cookie manager, user auth
+crypto: works in conjunction with passport. Crypts passwords.
+ejs: templating engine
+express: handle setting up of server and roading
+gravatar: interact with gravatar and adds images 
+jsonwebtoken: allows safe auth
+mongoose: simplify database interaction
+passport: user auth via FB, Twitter and local
+request: best used with a scrapper, allows to download data
+
+Bower for client side DEPENDENCIES
+
+angular, bootstrap, jquery are libraries
+angular-resource: make http or ajax request
+angular-ui-router: manage routes
+angular-strap: alert messages and tool tips
+angular-ANIMATE: help us creat animate transition between views
+ng-file-upload: upload files
+nginfinitescrolling: infinite SCROLL
+angular-moment and moment allow us to have timestamps to our posts
+
+======
+
+SERVER
+
+
